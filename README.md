@@ -29,5 +29,13 @@ We apply the test techniques such as boundary test and partition test.
     * Input the weight value is 1000000050.
         
 ###2. Checking the Algorithm works properly###
-
+ * Input a array of weights with many cases of the number of selected message.
+ Ex:  
+   1. Weight array: new int[]{50, 30, 60}
+      -  Selected version number: 1400 messages, 
+      -  Selected version number: 280 messages, 
+   2. Weight array: ew int[]{30, 10, 20, 60}
+      -  Selected version number: 360 messages, 
+ * Count the random number of each version following the specified weight.
+ * The randomness is relative so the result of randomness have to comparation with the deviation, and I set the deviation is +-10% for each selected version.
     
