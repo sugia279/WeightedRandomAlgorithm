@@ -23,10 +23,10 @@ public class WeightedRandom {
             int sumOfWeight = IntStream.of(weights).sum();
             int randomWeight = randomNumber(MIN_WEIGHT, sumOfWeight);
             for (int index = 0; index < weights.length; index++) {
-                randomWeight = randomWeight -  weights[index];
-                if(randomWeight <= 0) {
+                if(randomWeight <= weights[index]) {
                     return index;
                 }
+                randomWeight = randomWeight -  weights[index];
             }
         }
         return -1;
