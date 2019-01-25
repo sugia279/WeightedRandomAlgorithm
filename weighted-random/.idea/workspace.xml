@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e762a62d-7fd2-4a64-b670-fc9efea9273e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WeightedRandom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/WeightedRandomTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/WeightedRandomTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="109" column="59" lean-forward="true" selection-start-line="107" selection-start-column="23" selection-end-line="109" selection-end-column="59" />
+            <state relative-caret-position="-115">
+              <caret line="109" column="59" selection-start-line="107" selection-start-column="23" selection-end-line="109" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -104,7 +106,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548397670217" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548398165610" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -260,7 +262,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="3832" y="312" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -301,8 +302,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/WeightedRandomTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="109" column="59" lean-forward="true" selection-start-line="107" selection-start-column="23" selection-end-line="109" selection-end-column="59" />
+        <state relative-caret-position="-115">
+          <caret line="109" column="59" selection-start-line="107" selection-start-column="23" selection-end-line="109" selection-end-column="59" />
         </state>
       </provider>
     </entry>
