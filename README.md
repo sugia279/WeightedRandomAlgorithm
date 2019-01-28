@@ -37,5 +37,5 @@ I applied the test techniques such as boundary test and partition test.
    2. Weight array: ew int[]{30, 10, 20, 60}
       -  Selected version number: 360 messages, 
  * Count the random number of each version following the specified weight.
- * The randomness is relative so the result of randomness have to comparation with the deviation, and I set the deviation is +-10% for each selected version.
+ * The randomness is relative so the result of randomness have to compare with the deviation, and I set the deviation is +-10% for each selected version.
     
