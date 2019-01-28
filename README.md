@@ -10,7 +10,7 @@ Implement a function to take an array w[] as input and return a message version 
     * Iterate over the items, subtracting their weight from your random number until you get the item where the random number is less than that item's weight.
 ## How to test?
 ### 1. Checking the inputed value ###
-We apply the test techniques such as boundary test and partition test.
+I applied the test techniques such as boundary test and partition test.
  * Positive Cases of the inputed versions' value
     * Input the weight array by 1 version.
     * Input the weight array by 100 versions
