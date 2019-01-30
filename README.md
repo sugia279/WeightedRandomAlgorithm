@@ -38,4 +38,7 @@ I applied the test techniques such as boundary test and partition test.
       -  Selected version number: 360 messages, 
  * Count the random number of each version following the specified weight.
  * The randomness is relative so the result of randomness have to compare with the deviation, and I set the deviation is +-10% for each selected version.
-    
+### 2. Reference ###
+1. https://www.rubyguides.com/2016/05/weighted-random-numbers/
+2. https://medium.com/@peterkellyonline/weighted-random-selection-3ff222917eb6
+3. https://stackoverflow.com/questions/1761626/weighted-random-numbers
